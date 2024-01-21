@@ -1,6 +1,6 @@
 Product Architecture
-Document Text Extraction:
 
+Document Text Extraction:
 Responsibility: This component specializes in extracting text from PDFs, laying the foundation for subsequent processing and analysis.
 Text Embedding & Segmentation:
 
