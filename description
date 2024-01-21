@@ -1,0 +1,25 @@
+Audio Chatbot: A Generative AI Project
+  
+Contributors:
+
+Chinmay Umesh
+Deekshith R Prabhu
+Durga Prasad C Reddy
+Saanvi R Prabhu
+  
+Project Introduction
+Project Overview:
+Audio Chatbot is an advanced Generative AI project with a multifaceted approach. It seamlessly converts PDFs into refined text using PyPDF2 and regular expressions. The integration of "PINECONE" enhances the project's capabilities for high-performance vector search, ensuring efficient and accurate information retrieval. Token usage is meticulously tracked through 'tiktoken,' optimizing resource management.
+
+Semantic Search Chatbot:
+The core functionality of the Audio Chatbot lies in its Semantic Search Chatbot module. This innovative component delves deep into PDF documents, extracting nuanced meanings using sophisticated algorithms. The chatbot facilitates intuitive interactions with users, allowing human-like questioning for a natural and engaging conversational experience.
+
+Key Features:
+
+PDF to Text Conversion: Utilizing PyPDF2 and regular expressions, the project extracts refined text from PDF documents.
+
+Vector Search with PINECONE: The incorporation of the PINECONE library empowers the chatbot with high-performance vector search capabilities, enhancing information retrieval.
+
+Token Usage Tracking: 'tiktoken' is employed to efficiently track token usage, ensuring optimal resource management and performance.
+
+Text-to-Voice Conversion: The project goes beyond text-based interactions by incorporating text-to-voice conversion, providing users with audio output for a more inclusive and accessible experience.
