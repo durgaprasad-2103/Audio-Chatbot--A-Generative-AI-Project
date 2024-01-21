@@ -1,0 +1,10 @@
+Conclusion:
+• This project introduces a resilient architecture for natural language processing, semantic search, and
+document management in the context of a chatbot with audio output.
+• The modular design, featuring distinct modules for each key functionality, ensures scalability,
+maintainability, and adaptability to evolving requirements.
+  
+Future Implementation:
+• Enhance question-answering with advanced ML models.
+• Explore additional libraries for expanded language understanding.
+• Extend compatibility for a broader range of document formats.
