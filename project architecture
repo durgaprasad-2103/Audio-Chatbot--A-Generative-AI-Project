@@ -1,0 +1,28 @@
+Product Architecture
+Document Text Extraction:
+
+Responsibility: This component specializes in extracting text from PDFs, laying the foundation for subsequent processing and analysis.
+Text Embedding & Segmentation:
+
+Responsibility: Leveraging langchain, this module performs semantic vectorization and text segmentation, enhancing the understanding of content structure and context.
+Vector Search:
+
+Responsibility: Implementation of Pinecone for vector storage and similarity searches. This pivotal component ensures efficient and high-performance information retrieval.
+Question-Answering Chain:
+
+Responsibility: Employing OpenAI's advanced models, this chain is dedicated to delivering insightful responses to user queries, ensuring a natural and intuitive conversational experience.
+Document Loading:
+
+Responsibility: Utilizing OnlinePDFLoader, this component enables dynamic PDF loading, providing a seamless and responsive system for handling various document sources.
+Voice Output:
+
+Responsibility: Leveraging gTTS (Google Text-to-Speech), this module adds a vocal dimension to interactions, enhancing accessibility and user engagement through natural-sounding voice output.
+Why Our Architecture:
+
+Efficient Processing: The modular design ensures each component handles a specific task, promoting efficiency and scalability.
+
+Advanced Capabilities: Integration with Pinecone and OpenAI's models empowers the system with cutting-edge capabilities in vector search and question-answering.
+
+Dynamic PDF Handling: OnlinePDFLoader enables dynamic loading of PDFs, accommodating a variety of sources and ensuring real-time responsiveness.
+
+Inclusive Interaction: The incorporation of gTTS for voice output enhances accessibility, providing users with an inclusive and engaging conversational experience.
